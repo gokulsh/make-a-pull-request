@@ -9,3 +9,4 @@ A repository to teach how to make a Pull Request
 ### 4. Create a Pull Request
 ### 5. Star this repository
 ### 6. Congratulations! You've successfully made a Pull Request!
+Regards
